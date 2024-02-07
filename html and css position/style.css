@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+    border: 1px solid navy;
+    width: 400px;
+    height: 400px;
+    font-size: x-large;
+    /* justify-content: space-evenly; */
+    align-items: center;
+    flex-flow: row wrap;
+flex-wrap: wrap;
+}
+
+
+.container div {
+    width: 100px;
+    height: 80px;
+    margin: 10px;
+    background-color: aqua;
+    
+}

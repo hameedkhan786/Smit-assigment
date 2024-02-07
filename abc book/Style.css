@@ -1,0 +1,67 @@
+        table{
+            height: 1200px;
+            width: 1300px;
+            border-style: groove;
+            text-align: center;
+            background-color: rgb(13, 194, 149);
+            border-color: rgb(13, 168, 142);
+            font-weight: bold;
+        }
+        .heading{
+            font-size: 50px;
+            color: aquamarine;
+        }
+        .size{
+            font-style: italic;
+            text-align: left;
+            color: rgb(9, 105, 170);
+            font-size: 30px;
+            padding: 5px;
+        }
+        .text{
+            font-size: 30px;
+        }
+        tr td img{
+            padding: 30px;
+            margin: 50px;
+        }
+        .parent{
+            margin-top: 0;
+            padding-left: 20px;
+            background-color: rgb(133, 133, 230);
+            vertical-align: bottom;
+            font-size: 20px;
+            height: 400px;
+            width: 1280px;
+        }
+        input:hover{
+            background-color: rgb(189, 189, 240);
+        }
+        .child{
+            font-size: 30px;
+            font-weight: bolder;
+            color: rgb(12, 77, 161);
+        }
+        .button{
+            background-color: blue;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            height: 30px;
+            width: 90px;
+            cursor: pointer;
+        }
+        .button:hover{
+            background-color: rgb(80, 80, 231);
+        }
+        .button2{
+            background-color: rgb(252, 151, 167);
+            font-size: 30px;
+            height: 40px;
+            width: 90px;
+            border-top-right-radius: 20px;
+            border-bottom-left-radius: 20px;
+            margin-left: 1400px;
+            margin-bottom: 80px;
+            padding: 9px;
+        }
